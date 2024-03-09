@@ -4,5 +4,5 @@ current it & networking student
 
 cybersecurity concentration
 
-looking to learn independently
+looking to practice independently, mapping progress
 
