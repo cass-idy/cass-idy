@@ -10,7 +10,7 @@ looking to practice independently, mapping progress
 
 <br clear="left"/>
 
-__currently practicing:__
+__currently working with:__
 <div id="header" align="left">
   <div id="header" align="left">
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png?raw=true" width"100%"/> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png?raw=true" width"100%"/>
